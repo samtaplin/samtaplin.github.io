@@ -41,8 +41,14 @@ export default function Blog() {
       <Container maxWidth="xl">
       <Box sx={
         {
-            height: '100vh',
-            width: '87vw',
+          width: '90vw',
+          height: '50.625vw', /* height:width ratio = 9/16 = .5625  */
+          margin: 'auto',
+          position: 'absolute',
+          top:'0',
+          bottom:'0', /* vertical center */
+          left:'0',
+          right:'0', /* horizontal center */
             backgroundColor: '#BDBBB0',
             zIndex: 'left'
       }}>

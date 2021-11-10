@@ -25,8 +25,14 @@ const Item = styled(Paper)(({ theme }) => ({
 const styles = {
     paperContainer: {
         backgroundColor: '#A9A9A9',
-        height: '100vh',
-        width: '87vw'
+        width: '90vw',
+        height: '50.625vw', /* height:width ratio = 9/16 = .5625  */
+        margin: 'auto',
+        position: 'absolute',
+        top:'0',
+        bottom:'0', /* vertical center */
+        left:'0',
+        right:'0' /* horizontal center */
     },
     sam: {
       margin: 'auto',
@@ -57,7 +63,9 @@ export default function Home() {
         <div>
         <Paper className='background' variant="outlined" style={styles.sam}>
         </Paper>
-        <p className='explain'> </p>
+        <p className='explainc'>I needed to put something here to fill the page, so here's an ai-made impressionist painting of me.
+        Renoir was incredibly prolific, once painting a portrait in only thirty-five minutes. My Renoir, though, took like three minutes to make.
+        Maybe this is why modern artists have to create weird stuff that's hard to copy. </p>
 
         <Grid container spacing={2} style={styles.methods}>
     <Grid item xs={3}>
@@ -81,7 +89,13 @@ export default function Home() {
       </a>
     </Grid>
       </Grid>
-
+      <Box sx={
+        {
+            backgroundColor: '#A9A9A9',
+            height: '10vh',
+            width: '87vw'
+      }}>
+      </Box>
         </div>
         </Paper>
         <BottomNavigation

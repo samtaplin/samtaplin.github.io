@@ -15,8 +15,14 @@ import thesis from './thesisbutton.PNG';
 const styles = {
     paperContainer: {
         backgroundColor: '#39CCCC',
-        height: '100vh',
-        width: '87vw'
+        width: '90vw',
+        height: '50.625vw', /* height:width ratio = 9/16 = .5625  */
+        margin: 'auto',
+        position: 'absolute',
+        top:'0',
+        bottom:'0', /* vertical center */
+        left:'0',
+        right:'0',
     },
 
     button: {
@@ -59,15 +65,14 @@ export default function Home() {
         </div>
 
         <div>
-        <h1 className='explainh'> <b>'He's Finished! Why Some Elections Threaten Authoritarian Rulers'</b> </h1>
-        <p className='explain'>My Senior Thesis. Advised by Professors Susan Hyde and Terri Bimes.</p>
+        <h1 className='explainh'> <b>Senior Thesis</b> </h1>
+        <p className='explain'>'He's Finished! Why Some Elections Threaten Authoritarian Rulers'. Advised by Professors Susan Hyde and Terri Bimes.</p>
         <a href='https://github.com/samtaplin/thesis'>
         <Paper variant="outlined" elevation='6' className='background' style={styles.button2}>
         </Paper>
         </a>
         </div>
         </Paper>
-
         <BottomNavigation
         sx={{ position: 'fixed', bottom: 0, left: 0, right: 0 }}
         showLabels

@@ -8,7 +8,7 @@ import Projects from "./projects";
 import Contact from "./contact";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/personalsite">
        <Switch>
         <Route exact path="/" component={Home} />
         <Route path="/blog" component={Blog} />
