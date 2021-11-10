@@ -107,9 +107,9 @@ export default function Home() {
         }}
         >
         <BottomNavigationAction label="Home" href="/" icon={<HomeIcon />} />
-        <BottomNavigationAction label="Blog" href="/blog" icon={<LibraryBooksIcon />} />
-        <BottomNavigationAction label="Projects" href="/projects" icon={<CodeIcon />} />
-        <BottomNavigationAction label="Contact" href="/contact" icon={<EmailIcon />} />
+        <BottomNavigationAction label="Blog" href="/#/blog" icon={<LibraryBooksIcon />} />
+        <BottomNavigationAction label="Projects" href="/#/projects" icon={<CodeIcon />} />
+        <BottomNavigationAction label="Contact" href="/#/contact" icon={<EmailIcon />} />
         </BottomNavigation>
       </Container>
     </React.Fragment>

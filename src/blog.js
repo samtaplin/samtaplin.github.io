@@ -161,9 +161,9 @@ And if we want to make it easier to build things, we'll have to settle for imper
         }}
         >
         <BottomNavigationAction label="Home" href="/" icon={<HomeIcon />} />
-        <BottomNavigationAction label="Blog" href="/blog" icon={<LibraryBooksIcon />} />
-        <BottomNavigationAction label="Projects" href="/projects" icon={<CodeIcon />} />
-        <BottomNavigationAction label="Contact" href="/contact" icon={<EmailIcon />} />
+        <BottomNavigationAction label="Blog" href="/#/blog" icon={<LibraryBooksIcon />} />
+        <BottomNavigationAction label="Projects" href="/#/projects" icon={<CodeIcon />} />
+        <BottomNavigationAction label="Contact" href="/#/contact" icon={<EmailIcon />} />
         </BottomNavigation>
         </Paper>
       </Container>
