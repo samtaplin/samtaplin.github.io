@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/personalsite/static/css/main.f8a8ddd2.chunk.css",
-    "main.js": "/personalsite/static/js/main.95f536dd.chunk.js",
-    "main.js.map": "/personalsite/static/js/main.95f536dd.chunk.js.map",
-    "runtime-main.js": "/personalsite/static/js/runtime-main.d54eeca6.js",
-    "runtime-main.js.map": "/personalsite/static/js/runtime-main.d54eeca6.js.map",
-    "static/css/2.1d374e45.chunk.css": "/personalsite/static/css/2.1d374e45.chunk.css",
-    "static/js/2.3370c8e4.chunk.js": "/personalsite/static/js/2.3370c8e4.chunk.js",
-    "static/js/2.3370c8e4.chunk.js.map": "/personalsite/static/js/2.3370c8e4.chunk.js.map",
-    "index.html": "/personalsite/index.html",
-    "static/css/2.1d374e45.chunk.css.map": "/personalsite/static/css/2.1d374e45.chunk.css.map",
-    "static/css/main.f8a8ddd2.chunk.css.map": "/personalsite/static/css/main.f8a8ddd2.chunk.css.map",
-    "static/js/2.3370c8e4.chunk.js.LICENSE.txt": "/personalsite/static/js/2.3370c8e4.chunk.js.LICENSE.txt",
-    "static/media/IMG_0461.5513a9a3.jpg": "/personalsite/static/media/IMG_0461.5513a9a3.jpg",
-    "static/media/katex.min.css": "/personalsite/static/media/KaTeX_Typewriter-Regular.9f1a86cb.woff",
-    "static/media/out.eec73d1a.PNG": "/personalsite/static/media/out.eec73d1a.PNG",
-    "static/media/socialchoice.9971d8ac.PNG": "/personalsite/static/media/socialchoice.9971d8ac.PNG",
-    "static/media/thesisbutton.d8514b46.PNG": "/personalsite/static/media/thesisbutton.d8514b46.PNG"
+    "main.css": "/static/css/main.f8a8ddd2.chunk.css",
+    "main.js": "/static/js/main.6e90ff54.chunk.js",
+    "main.js.map": "/static/js/main.6e90ff54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ccdb94f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ccdb94f.js.map",
+    "static/css/2.4e96f68b.chunk.css": "/static/css/2.4e96f68b.chunk.css",
+    "static/js/2.3370c8e4.chunk.js": "/static/js/2.3370c8e4.chunk.js",
+    "static/js/2.3370c8e4.chunk.js.map": "/static/js/2.3370c8e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4e96f68b.chunk.css.map": "/static/css/2.4e96f68b.chunk.css.map",
+    "static/css/main.f8a8ddd2.chunk.css.map": "/static/css/main.f8a8ddd2.chunk.css.map",
+    "static/js/2.3370c8e4.chunk.js.LICENSE.txt": "/static/js/2.3370c8e4.chunk.js.LICENSE.txt",
+    "static/media/IMG_0461.5513a9a3.jpg": "/static/media/IMG_0461.5513a9a3.jpg",
+    "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.9f1a86cb.woff",
+    "static/media/out.eec73d1a.PNG": "/static/media/out.eec73d1a.PNG",
+    "static/media/socialchoice.9971d8ac.PNG": "/static/media/socialchoice.9971d8ac.PNG",
+    "static/media/thesisbutton.d8514b46.PNG": "/static/media/thesisbutton.d8514b46.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.d54eeca6.js",
-    "static/css/2.1d374e45.chunk.css",
+    "static/js/runtime-main.9ccdb94f.js",
+    "static/css/2.4e96f68b.chunk.css",
     "static/js/2.3370c8e4.chunk.js",
     "static/css/main.f8a8ddd2.chunk.css",
-    "static/js/main.95f536dd.chunk.js"
+    "static/js/main.6e90ff54.chunk.js"
   ]
 }
