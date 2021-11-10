@@ -39,7 +39,7 @@ const styles = {
       width: '50%',
       backgroundImage: `url(${sam})`,
       height: '40vh',
-      width: '31.1vh'
+      width: '31vh'
     },
     methods: {
       margin: 'auto',
