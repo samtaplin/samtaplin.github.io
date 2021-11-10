@@ -126,7 +126,7 @@ And if we want to make it easier to build things, we'll have to settle for imper
             aria-controls="panel2a-content"
             id="panel2a-header"
           >
-            <Typography align='center' variant='h4'>In politics, individual character still matters.</Typography>
+            <Typography align='center' variant='h4'>In politics, character still matters.</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>

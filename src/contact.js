@@ -38,8 +38,8 @@ const styles = {
       margin: 'auto',
       width: '50%',
       backgroundImage: `url(${sam})`,
-      height: '45vh',
-      width: '35vh'
+      height: '40vh',
+      width: '31.1vh'
     },
     methods: {
       margin: 'auto',
