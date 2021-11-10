@@ -15,7 +15,7 @@ ReactDOM.render(
         <Route path="/projects" component={Projects} />
         <Route path="/contact" component={Contact} />
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   ,
   document.getElementById('root')
 );
